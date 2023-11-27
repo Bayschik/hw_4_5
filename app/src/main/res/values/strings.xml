@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lesson_4_5</string>
+    <string name="love_calculator_tv">Love Calculator</string>
+    <string name="you_tv">You</string>
+    <string name="me_tv">Me</string>
+    <string name="calculate_btn">Calculate</string>
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
